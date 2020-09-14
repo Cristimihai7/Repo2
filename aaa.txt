@@ -7,3 +7,4 @@ Feature2
 555
 Git Pull test
 Git Pull test 1
+Git Pull test 2
